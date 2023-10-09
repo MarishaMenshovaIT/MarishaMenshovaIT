@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MarishaMenshovaIT
 - 👀 I’m interested in travelling, learning something new, meeting new people
-- 🌱 I’m currently learning JavaScript, TypeScript, React and other librarys
-- 💞️ I’m looking to collaborate on educational program or creating something together
+- 🌱 I’m currently learning JavaScript, TypeScript, React and other librarys and languages
+- 💞️ I’m looking to collaborate on educational program, creating something together
+- 👩‍💻 On the path of finding a job in IT Full stack developer
 - 📫 How to reach me mary1menshova@gmail.com
 
 <!---

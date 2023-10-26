@@ -22,7 +22,7 @@
   
  If you have any questions, or just want to connect, feel free to send a messenger pigeon or use one of those modern communication methods from the list below:
 - 📬 mary1menshova@gmail.com
-- 📎 LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/marisha-menshova-0ab757157/)
 
 <!---
 MarishaMenshovaIT/MarishaMenshovaIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

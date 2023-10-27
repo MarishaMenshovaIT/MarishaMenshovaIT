@@ -1,6 +1,6 @@
    👋 Hi there, I'm Marisha, a newborn Junior Developer (I just 4 month old) 🐣
    
-- 🌱 I’m currently discovered & learned magic of HTML, CSS, JavaScript, TypeScript, React in the side of Frontend 🔮
+- 🌱 I’m currently discovered & learned magic of HTML, CSS, JavaScript, TypeScript with JSX (React), Figma in the side of Frontend 🔮
 - 🦇 And the Backend mystery of REST APIs with Express, Prisma ORM (Postgres & SQLite) 🌑
 - 💞️ I’m looking to collaborate on educational program, creating something together
 - 👩‍💻 On the path of finding a job in IT Full stack Developer

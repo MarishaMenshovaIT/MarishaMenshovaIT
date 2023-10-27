@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on educational program, creating something together
 - 👩‍💻 On the path of finding a job in IT Full stack Developer
 - 👀 I’m interested in travelling, learning new tech features, meeting new people
-
+<br />
   💻 My projects with Scrimba 📊
   
 - 🎇 My Google page

@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Marisha,## a newborn Junior Developer (I am just 4 month old) 🐣
+# 👋 Hi there, I'm Marisha, ## a newborn Junior Developer (I am just 4 month old) 🐣
    
 - 🌱 I’m currently discovering & learning the magic of HTML, CSS, JavaScript, TypeScript with JSX (React), Figma in the side of Frontend 🔮
 - 🦇 And the Backend mystery of REST APIs with Express, Prisma ORM (Postgres & SQLite) 🌑
@@ -6,18 +6,21 @@
 - 👩‍💻 On the path of finding a job in IT Full stack Developer
 - 👀 I’m interested in travelling, learning new tech features, meeting new people
 <br />
+
 ## 💻 My projects with Scrimba 📊
   
 - 🎇 My Google page
 - ♠️ Blackjack game
 - 🌈 Calculator: My dead nerve cells per day
 <br />
+
 ## 🧟 My projects with Mind.Mingl{}
   
 - 👩‍🍳 Home Chef Recipe: a full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo))
 - 📚 Book club website: backend and frontend site with multiple pages, JSON Web Tokens (authentication), JSX, REST APIs with Express, Prisma ORM (Postgres & SQLite) 
 - 🚜 A lot of mini projects about farms and farm animals, and exercises which taught me languages and libraries: JavaScript, TypeScript, React 🐄🌾
 <br />
+
  ## 📫 How to reach me
   
 If you have any questions, or just want to connect, feel free to send a messenger pigeon or use one of those modern communication methods from the list below:

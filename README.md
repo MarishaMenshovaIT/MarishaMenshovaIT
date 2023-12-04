@@ -20,6 +20,7 @@
 - 👩‍🍳 Home Chef Recipe: a full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo))
 - 📚 Book club website: backend and frontend site with multiple pages, JSON Web Tokens (authentication), JSX, REST APIs with Express, Prisma ORM (Postgres & SQLite) 
 - 🚜 A lot of mini projects about farms and farm animals, and exercises which taught me languages and libraries: JavaScript, TypeScript, React 🐄🌾
+- 🎶 Music application for your favorite music 🎸
 <br />
 
  ## 📫 How to reach me

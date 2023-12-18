@@ -1,5 +1,5 @@
 # Hi there, I'm Marisha 👋
-## A newborn Junior Developer (I am just 5 month old) 🐣
+## A newborn Junior Developer (I am just 6 month old) 🐣
    
 - 🌱 I’m currently discovering & learning the magic of HTML, CSS, TypeScript, React, Next.js, Figma for frontend development 🔮
 - 🦇 And the Backend mystery of REST APIs with Express, Prisma ORM (Postgres & SQLite) 🌑

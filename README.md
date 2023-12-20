@@ -1,8 +1,9 @@
 # Hi there, I'm Marisha 👋
 ## A newborn Junior Developer (I am just 6 month old) 🐣
    
-- 🌱 I’m currently discovering & learning the magic of HTML, CSS, TypeScript, React, Next.js, Figma for frontend development 🔮
-- 🦇 And the Backend mystery of REST APIs with Express, Prisma ORM (Postgres & SQLite) 🌑
+- 🌱 I’m currently discovering & learning the magic of HTML, CSS, TypeScript, React, CORS, Next.js, Figma for frontend development 🔮
+- 🦇 And the Backend mystery of NodeJS, Express, Prisma, REST API ORM (Postgres & SQLite) 🌑
+- 🗝️ Other tools: Jest, Zod, Cypress, Git 🔦
 - 💞️ I’m looking to collaborate on educational programs, creating something together
 - 👩‍💻 On the path of finding a job in IT Full stack Developer
 - 👀 I’m interested in travelling, learning new tech features, meeting new people
@@ -13,14 +14,16 @@
 - 🎇 My Google page
 - ♠️ Blackjack game
 - 🌈 Calculator: My dead nerve cells per day
+- 🧩 I have created my own new extension for Google and I`m using it every day 
 <br />
 
-## 🧟‍♀️ My projects with Mind.Mingl{}
+## 🧟‍♀️ My projects with IT bootcamp I participated 
   
 - 👩‍🍳 Home Chef Recipe: a full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo))
+- - 🎶 Music application for your favorite music 🎸
+- 🌠 Wishlist for Santa 🎄
 - 📚 Book club website: backend and frontend site with multiple pages, JSON Web Tokens (authentication), JSX, REST APIs with Express, Prisma ORM (Postgres & SQLite) 
 - 🚜 A lot of mini projects about farms and farm animals, and exercises which taught me languages and libraries: JavaScript, TypeScript, React 🐄🌾
-- 🎶 Music application for your favorite music 🎸
 <br />
 
  ## 📫 How to reach me

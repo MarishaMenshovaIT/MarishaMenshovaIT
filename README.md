@@ -1,8 +1,8 @@
 # Hi there, I'm Marisha 👋
 ## A newborn Junior Developer (I am just 6 month old) 🐣
    
-- 🌱 I’m currently discovering & learning the magic of HTML, CSS, TypeScript, React, CORS, Next.js, Figma for frontend development 🔮
-- 🦇 And the Backend mystery of NodeJS, Express, Prisma, REST API ORM (Postgres & SQLite) 🌑
+- 🌱 I’m currently discovering & learning the magic of HTML, CSS, TypeScript, React, Next.js, Figma for frontend development 🔮
+- 🦇 And the Backend mystery of NodeJS, Express, Prisma, CORS, REST API ORM (Postgres & SQLite) 🌑
 - 🗝️ Other tools: Jest, Zod, Cypress, Git 🔦
 - 💞️ I’m looking to collaborate on educational programs, creating something together
 - 👩‍💻 On the path of finding a job in IT Full stack Developer
